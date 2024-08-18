@@ -1,0 +1,70 @@
+[
+    {
+        "audio_path": "voice_samples/The_patient_presents_with_acut.mp3",
+        "transcription": "The patient presents with acute respiratory distress."
+    },
+    {
+        "audio_path": "voice_samples/Consider_administering_epineph.mp3",
+        "transcription": "Consider administering epinephrine."
+    },
+    {
+        "audio_path": "voice_samples/Administer_intravenous_fluids.mp3",
+        "transcription": "Administer intravenous fluids."
+    },
+    {
+        "audio_path": "voice_samples/Schedule_an_MRI_for_the_patien.mp3",
+        "transcription": "Schedule an MRI for the patient."
+    },
+    {
+        "audio_path": "voice_samples/Prescribe_warfarin_5_mg_daily.mp3",
+        "transcription": "Prescribe warfarin 5 mg daily."
+    },
+    {
+        "audio_path": "voice_samples/Administer_10_units_of_insulin.mp3",
+        "transcription": "Administer 10 units of insulin."
+    },
+    {
+        "audio_path": "voice_samples/The_patient_has_a_history_of_h.mp3",
+        "transcription": "The patient has a history of hypertension."
+    },
+    {
+        "audio_path": "voice_samples/Suspect_Guillain-Barre_syndrom.mp3",
+        "transcription": "Suspect Guillain-Barre syndrome."
+    },
+    {
+        "audio_path": "voice_samples/chemotherapy.mp3",
+        "transcription": "chemotherapy"
+    },
+    {
+        "audio_path": "voice_samples/radiotherapy.mp3",
+        "transcription": "radiotherapy"
+    },
+    {
+        "audio_path": "voice_samples/carcinoma.mp3",
+        "transcription": "carcinoma"
+    },
+    {
+        "audio_path": "voice_samples/epilepsy.mp3",
+        "transcription": "epilepsy"
+    },
+    {
+        "audio_path": "voice_samples/multiple_sclerosis.mp3",
+        "transcription": "multiple sclerosis"
+    },
+    {
+        "audio_path": "voice_samples/neurodegeneration.mp3",
+        "transcription": "neurodegeneration"
+    },
+    {
+        "audio_path": "voice_samples/BPM.mp3",
+        "transcription": "BPM"
+    },
+    {
+        "audio_path": "voice_samples/TID.mp3",
+        "transcription": "TID"
+    },
+    {
+        "audio_path": "voice_samples/PRN.mp3",
+        "transcription": "PRN"
+    }
+]

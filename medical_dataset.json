@@ -1,0 +1,74 @@
+[
+    {
+        "audio_path": "voice_samples/The_patient_presents_with_acut.mp3",
+        "transcription": "The patient presents with acute chest pain."
+    },
+    {
+        "audio_path": "voice_samples/Prescribe_metoprolol_25mg_twic.mp3",
+        "transcription": "Prescribe metoprolol 25mg twice daily."
+    },
+    {
+        "audio_path": "voice_samples/Perform_an_echocardiogram.mp3",
+        "transcription": "Perform an echocardiogram."
+    },
+    {
+        "audio_path": "voice_samples/Order_a_complete_blood_count.mp3",
+        "transcription": "Order a complete blood count."
+    },
+    {
+        "audio_path": "voice_samples/Perform_an_x-ray.mp3",
+        "transcription": "Perform an x-ray."
+    },
+    {
+        "audio_path": "voice_samples/Prescribe_metoprolol_25_mg_twi.mp3",
+        "transcription": "Prescribe metoprolol 25 mg twice daily."
+    },
+    {
+        "audio_path": "voice_samples/Start_the_patient_on_atorvasta.mp3",
+        "transcription": "Start the patient on atorvastatin 40 mg."
+    },
+    {
+        "audio_path": "voice_samples/The_patient_has_a_history_of_d.mp3",
+        "transcription": "The patient has a history of diabetes."
+    },
+    {
+        "audio_path": "voice_samples/Suspect_Marfan_syndrome.mp3",
+        "transcription": "Suspect Marfan syndrome."
+    },
+    {
+        "audio_path": "voice_samples/myocardial_infarction.mp3",
+        "transcription": "myocardial infarction"
+    },
+    {
+        "audio_path": "voice_samples/angioplasty.mp3",
+        "transcription": "angioplasty"
+    },
+    {
+        "audio_path": "voice_samples/arrhythmia.mp3",
+        "transcription": "arrhythmia"
+    },
+    {
+        "audio_path": "voice_samples/computed_tomography.mp3",
+        "transcription": "computed tomography"
+    },
+    {
+        "audio_path": "voice_samples/magnetic_resonance_imaging.mp3",
+        "transcription": "magnetic resonance imaging"
+    },
+    {
+        "audio_path": "voice_samples/ultrasound.mp3",
+        "transcription": "ultrasound"
+    },
+    {
+        "audio_path": "voice_samples/ECG.mp3",
+        "transcription": "ECG"
+    },
+    {
+        "audio_path": "voice_samples/CBC.mp3",
+        "transcription": "CBC"
+    },
+    {
+        "audio_path": "voice_samples/ICU.mp3",
+        "transcription": "ICU"
+    }
+]
